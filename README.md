@@ -6,7 +6,7 @@ A python bot that will update your display name with number of followers you are
 
 ![](assets/demo.png) <br>
 You can visit [my twitter profile](https://twitter.com/chotathanos) to see the app in action 🐦 <br>
-The app triggers after every 30 sec so you should have a paiten of atleast 30 SEC 😂
+The app triggers after every 30 sec so you should have a patience of atleast 30 SEC 😂
 <br><br>
 
 ## ⚙️ Steps to implement this in your own twitter profile
