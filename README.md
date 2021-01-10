@@ -1,6 +1,6 @@
 # twitter-realtime-update
 
-A python bot that will update your display name with number of followers you are having currently and bio with most recent new user that followed you
+_A python bot that will update your display name with number of followers you are having currently and bio with most recent new user that followed you_
 
 ## 🖼 Demo
 
@@ -16,6 +16,7 @@ The app triggers after every 30 sec so you should have a patience of atleast 30 
 ```sh
 $ git clone https://github.com/ponder2000/twitter-realtime-update.git
 $ cd twitter-realtime-update
+$ pip install -r requirements.txt
 ```
 
 2. 🔑 Get the `AUTH KEYS` for your app from your [twitter developer account](https://developer.twitter.com) and update it with values in `details.py`
